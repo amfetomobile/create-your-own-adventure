@@ -31,3 +31,4 @@
 
 14. [Решаваш, че искаш да се биеш срещу мафията вместо да бягаш](./kill_them/kill_them.md)
 
+15. [neznam kakvo se pishe tuk](./kakvosep/kakvosepishetuk.md)
